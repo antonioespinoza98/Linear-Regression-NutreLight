@@ -1,0 +1,58 @@
+Número de factura:;Indique su sexo;¿Cuál es su edad en años cumplidos?;¿Cuál es su nivel educativo formal?;En una escala del 1 al 10, 1 siendo mala y 10 excelente, ¿Cómo evaluaría la experiencia con el servicio brindado? (se aceptan decimales);En una escala del 1 al 10, 1 siendo mala y 10 excelente, ¿Cómo evaluaría el sabor de los productos NutreLight? (se aceptan decimales);En una escala de 1 al 10, 1  siendo mala y 10 como excelente, ¿Cómo evaluaría la presentación de los productos NutreLight? (esto incluye: empaque y información nutricional) (se aceptan decimales);En una escala del 1 al 3 ¿Con cuanta frecuencia compra productos NutreLight? (1 poco frecuente, 2 frecuente, 3 muy frecuente);Cantidad de productos NutreLight que compró;¿Qué tipo de producto compró?;¿Sigue algún tipo de dieta?;¿Padece de diabetes?;Cantón donde reside ;¿Cuál considera es su ingreso promedio mensual? ;Gasto ;distancia
+46323;Hombre;45;Universitaria;10;10;10;2;1;Light;Sí;Sí;Coronado;1000000;32000;15
+46327;Mujer;46;Secundaria completa;10;10;10;2;2;Light;No;No;Desamparados ;500000;32500;5
+46329;Mujer;43;Universitaria;10;10;10;2;5;Light;Sí;Sí;Goicochea;500000;17750;7.2
+46330;Hombre;47;Universitaria;10;9;10;3;6;Ambos;Sí;Sí;Tibas;;32100;9.4
+46340;Hombre;34;Universitaria;10;8;9;2;2;Light;Sí;No;Goicochea;;3300;7.2
+46342;Mujer;33;Universitaria;9;9;9;3;6;Light;No;No;Curridabat;1000000;21300;1
+46344;Mujer;33;Universitaria;10;9;10;1;1;Light;Sí;No;San Isidro;150000;14700;18
+46345;Mujer;36;Universitaria;10;10;10;2;1;Light;No;Sí;Desamparados;800000;8000;5
+46354;Mujer;38;Universitaria;10;10;10;2;1;Light;Sí;Sí;La Union;;8000;6.9
+46355;Mujer;62;Universitaria;9;9;9;2;3;Light;No;No;San Pedro;1000000;4900;3.6
+46356;Hombre;62;Universitaria;9;9;9;2;14;Light;Sí;Sí;Curridabat;1000000;21200;1
+46360;Mujer;32;Universitaria;9;10;9;2;8;Light;Sí;Sí;Curridabat;;15600;1
+46374;Mujer;27;Universitaria;10;10;10;3;6;Light;Sí;No;Desamparados;;6400;5
+46381;Mujer;67;Secundaria completa;10;10;10;3;5;Light;Sí;Sí;Curridabat;;6200;1
+46383;Hombre;31;Universitaria;10;10;10;1;1;Light;No;No;Tibas;1000000;14000;9.4
+46385;Mujer;29;Universitaria;10;10;10;3;16;Light;No;No;Curridabat;;20300;1
+46390;Mujer;63;Secundaria completa;10;10;10;2;1;Light;No;Sí;Curridabat;;5500;1
+46395;Mujer;42;Universitaria;9;9;9;2;5;Light;Sí;Sí;Moravia;;12500;14
+46399;Mujer;61;Secundaria completa;9;10;9;2;5;Ambos;No;No;Alajuelita;;11400;8.7
+46401;Mujer;57;Universitaria;10;10;10;2;6;Light;Sí;Sí;La union;;10100;6.9
+46407;Mujer;39;Universitaria;10;10;10;2;4;Light;Sí;Sí;Cartago;;7400;20
+46408;Hombre;49;Universitaria;10;9;9;2;1;Light;No;No;Moravia;;14000;14
+46411;Hombre;63;Secundaria completa;10;10;10;2;3;Light;No;Sí;Curridabat;;24950;1
+46416;Mujer;44;Universitaria;9;9;9;2;2;Keto;Sí;No;Santa Ana;1000000;15000;22
+46418;Mujer;39;Universitaria;10;9;9;2;2;Ambos;Sí;No;Curridabat;;4000;1
+46422;Mujer;31;Universitaria;9;9;9;2;1;Light;Sí;No;Aserri;800000;8000;12
+46424;Mujer;25;Universitaria;10;10;10;1;3;Keto;Sí;No;La Union;;7900;6.9
+46425;Hombre;51;Universitaria;9;9;8;3;9;Light;No;No;Goicochea;1500000;15100;7.2
+46434;Hombre;39;Universitaria;10;10;10;2;9;Light;No;Sí;Tibas;1000000;25400;9.4
+46435;Mujer;34;Universitaria;9;9;9;2;1;Keto;Sí;No;Goicochea;;14000;7.2
+46437;Mujer;45;Universitaria;9;9;8;2;4;Light;Sí;Sí;Cartago;800000;6900;20
+46438;Mujer;27;Universitaria;9;8.5;9;2;2;Light;No;Sí;Desamparados;;15800;5
+46442;Mujer;60;Secundaria incompleta;10;10;10;3;1;Light;No;Sí;Aserri;;5750;12
+46449;Hombre;47;Secundaria completa;9;9;8;2;1;Light;No;Sí;Curridabat;;22500;1
+46454;Hombre;37;Universitaria;9;8;8;1;1;Light;No;No;Goicochea;;8000;7.2
+46455;Mujer;28;Universitaria;9;9;9;1;1;Light;Sí;No;La union;;2400;6.9
+46456;Mujer;52;Universitaria;10;10;10;2;4;Light;Sí;Sí;Curridabat;1000000;12800;1
+46458;Hombre;65;Secundaria incompleta;10;10;10;2;7;Light;No;Sí;Curridabat;;13400;1
+46460;Hombre;39;Universitaria;10;9;10;1;1;Light;No;No;la Union;;15500;6.9
+46462;Mujer;31;Universitaria;10;9;10;2;3;Ambos;Sí;No;Alajuelita;;8100;8.7
+46466;Hombre;38;Universitaria;9;8;9;1;1;Light;No;No;Heredia;;14500;20
+46467;Hombre;49;Universitaria;9;9;9;1;1;Light;No;No;Escazu;1500000;14000;14
+46470;Mujer;53;Universitaria;9.5;9;9;2;3;Light;No;No;Curridabat;;4950;1
+46471;Mujer;55;Universitaria;10;9;9;2;3;Ambos;No;No;La union;;19200;6.9
+46473;Hombre;39;Universitaria;10;10;10;2;1;Light;Sí;No;Coronado;700000;19000;15
+46474;Mujer;57;Secundaria completa;9;8;9;1;2;Light;No;Sí;Curridabat;;8050;1
+46475;Hombre;40;Universitaria;10;10;9;2;4;Light;No;No;Alajuelita;;17900;8.7
+46480;Mujer;32;Universitaria;9;9;8;3;5;Light;No;No;Desamparados;;23300;5
+46481;Mujer;50;Universitaria;10;10;10;3;5;Light;Sí;Sí;Curridabat;1000000;6250;1
+46484;Mujer;47;Secundaria completa;9;8;8;2;1;Light;No;Sí;Desamparados;;18200;5
+46485;Mujer;52;Universitaria;10;8.5;10;3;2;Light;Sí;Sí;Curridabat;1700000.00;16400;1
+46486;Mujer;42;Universitaria;10;10;9;3;19;Ambos;Sí;Sí;Santa Ana;1500000;45900;22
+46487;Mujer;38;Universitaria;10;10;10;1;1;Light;No;No;Santo Domingo de Heredia;900000;8500;12
+46489;Mujer;40;Universitaria;10;10;10;3;10;Light;Sí;Sí;Tibas;;31600;9.4
+46492;Mujer;47;Universitaria;9;9;9;2;3;Light;Sí;Sí;Desamparados;;18600;5
+46493;Mujer;35;Universitaria;10;9;8;1;1;Light;No;Sí;Cartago;1000000;21000;20
+46495;Mujer;33;Universitaria;10;10;10;2;4;Light;Sí;No;Aserri;;9000;12
